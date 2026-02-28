@@ -26,4 +26,4 @@ To run this notebook successfully, you will need a Python environment with the f
 
 ## 📖 How to View
 If the `.ipynb` file fails to render directly on GitHub, please use the link below to view it via **NBViewer**:
-[(https://nbviewer.org/github/petrovicaleksandar/Concordia_CEAI-1003/blob/930cd9bd31bfa0bf7eba27952128c36e07603a02/titanic-eda-notebook.ipynb)]](https://nbviewer.org/github/petrovicaleksandar/Concordia_CEAI-1003/blob/930cd9bd31bfa0bf7eba27952128c36e07603a02/titanic-eda-notebook.ipynb)
+[(https://nbviewer.org/github/petrovicaleksandar/Concordia_CEAI-1003/blob/930cd9bd31bfa0bf7eba27952128c36e07603a02/titanic-eda-notebook.ipynb)](https://nbviewer.org/github/petrovicaleksandar/Concordia_CEAI-1003/blob/930cd9bd31bfa0bf7eba27952128c36e07603a02/titanic-eda-notebook.ipynb)
